@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    background-color:yellow;
+}
+
+
+button{
+    margin-top: 5%;
+    color:white;
+    background-color: white;
+    height: 50px;
+    width: 120px;
+    border-radius: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: red;
+    position: relative;
+}
+
+img{
+    margin:auto;
+    height: 500px;
+    width: 500px;
+}
+#closed{
+     margin-left:20%;
+}
+
+button:hover{
+    color: white;
+    background-color:darkred;
+    cursor: pointer;
+}
